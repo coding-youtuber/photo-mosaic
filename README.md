@@ -2,7 +2,7 @@
 # フォトモザイクの作り方
 ![capture2](https://user-images.githubusercontent.com/58985013/126052510-f43b0329-752d-4dd0-837c-07e9b1d5c6f5.jpg)
 
-https://youtu.be/plWa7k7WG_I
+https://youtu.be/jKgPgqTHqp0
 
 
 東海オンエアのサムネイル画像を使ってヒカキンの画像を作ります。
@@ -37,3 +37,7 @@ https://github.com/codebox/mosaic
 # 注意
 
 このレポジトリには東海オンエアとヒカキンの画像はアップロードしていません。自分でダウンロードして追加してください。
+
+# 参考にしたコード
+
+https://github.com/codebox/mosaic
